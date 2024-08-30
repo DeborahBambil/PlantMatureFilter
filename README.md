@@ -1,18 +1,19 @@
 # FilterPlantMature
-Author: Deborah Bambil
+**Author:** Deborah Bambil
 
 The purpose of this tool is to filter the plant harpin sequences.
 
-Requirements run the tool
+## Requirements
 
-install:
+- Python 2 or Python 3
 
-python2 or python3
+## Installation
 
-run:
+1. Ensure you have Python 2 or Python 3 installed on your system.
 
+## Usage
+
+To run the tool, execute the following command:
+
+```bash
 python FilterMature.py
-
-harpin database available in:
-
-ftp://mirbase.org/pub/mirbase/CURRENT/mature.fa.gz
